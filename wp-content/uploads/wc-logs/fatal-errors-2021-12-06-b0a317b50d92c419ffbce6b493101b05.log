@@ -1,0 +1,12 @@
+2021-12-06T07:30:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\neweve\wp-includes\wp-db.php on line 2056
+
+2021-12-06T07:30:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\neweve\wp-includes\wp-db.php on line 2056
+
+2021-12-06T07:37:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\neweve\wp-content\plugins\elementor\includes\base\controls-stack.php on line 2048
+
+2021-12-06T07:39:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\neweve\wp-includes\wp-db.php on line 2056
+
+2021-12-06T09:31:22+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) in C:\xampp\htdocs\neweve\wp-content\plugins\elementor\includes\controls\groups\base.php on line 498
+
+2021-12-06T10:06:06+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 32768 bytes) in C:\xampp\htdocs\neweve\wp-content\plugins\elementor-pro\modules\theme-builder\skins\posts-archive-skin-classic.php on line 1
+

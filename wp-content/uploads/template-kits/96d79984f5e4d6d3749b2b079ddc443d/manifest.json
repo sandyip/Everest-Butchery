@@ -1,0 +1,1349 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Meatezy \u2013 Meat Shop & Butcher Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Meat Product",
+            "screenshot": "screenshots\/meat-product.jpg",
+            "source": "templates\/meat-product.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/meat-product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Order",
+            "screenshot": "screenshots\/metform-order.jpg",
+            "source": "templates\/metform-order.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/metform-order\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Package",
+            "screenshot": "screenshots\/package.jpg",
+            "source": "templates\/package.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.11.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "ribeye-and-meat-cleaver-1-e1626688099224.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/ribeye-and-meat-cleaver-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 310494,
+            "dimensions": [
+                1820,
+                1213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C92TA6Q"
+        },
+        {
+            "filename": "chef-butcher-prepare-beef-steak-e1626688118246.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/chef-butcher-prepare-beef-steak-800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 162575,
+            "dimensions": [
+                1440,
+                954
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T8UW8UD"
+        },
+        {
+            "filename": "asset5-8S3QPFD-e1626688205878.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/asset5-8S3QPFD-800x918.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 107091,
+            "dimensions": [
+                1000,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8S3QPFD"
+        },
+        {
+            "filename": "asset6-8S3QPFD-e1626688217720.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/asset6-8S3QPFD-800x810.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93481,
+            "dimensions": [
+                1000,
+                1012
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8S3QPFD"
+        },
+        {
+            "filename": "asset4-FJ8Z96-e1626688155363.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/asset4-FJ8Z96-800x464.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 48724,
+            "dimensions": [
+                1000,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FJ8Z96"
+        },
+        {
+            "filename": "icon5-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon5-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9230,
+            "dimensions": [
+                500,
+                387
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "icon6-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon6-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8376,
+            "dimensions": [
+                445,
+                403
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "icon3-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon3-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9557,
+            "dimensions": [
+                496,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "icon4-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon4-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7093,
+            "dimensions": [
+                457,
+                378
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "icon1-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon1-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7879,
+            "dimensions": [
+                499,
+                325
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "icon2-HBAQWGU.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/icon2-HBAQWGU.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10474,
+            "dimensions": [
+                486,
+                418
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBAQWGU"
+        },
+        {
+            "filename": "raw-meat-different-kinds-of-pork-and-beef-meat--e1626688194594.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-different-kinds-of-pork-and-beef-meat--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 254947,
+            "dimensions": [
+                1440,
+                959
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2LG4HCX"
+        },
+        {
+            "filename": "raw-beef-steaks--e1626688251310.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-beef-steaks--e1626152340236-800x1127.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 213542,
+            "dimensions": [
+                800,
+                1126
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2ZYL55"
+        },
+        {
+            "filename": "organic-raw-lamb-chops-e1626688263894.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/organic-raw-lamb-chops-e1626152263919-800x1203.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 214723,
+            "dimensions": [
+                1000,
+                1504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXXQU23"
+        },
+        {
+            "filename": "raw-pork-steaks--e1626688273626.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-pork-steaks--e1626152309984-800x1127.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 265827,
+            "dimensions": [
+                900,
+                1268
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-65K7HMU"
+        },
+        {
+            "filename": "chicken-thighs-on-a-dark-background--e1626688286254.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/chicken-thighs-on-a-dark-background--e1626152281260-800x1203.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 259866,
+            "dimensions": [
+                1000,
+                1504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-C473K86"
+        },
+        {
+            "filename": "raw-fresh-marbled-meat-steak-seasonings-and-meat-fork-on-dark-marble-background-e1626688374240.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-fresh-marbled-meat-steak-seasonings-and-meat-fork-on-dark-marble-background-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 200134,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PDXPWM7"
+        },
+        {
+            "filename": "raw-meat-beef-steak-with-seasoning-on-chopping-board-on-dark-background-with-rosemary--e1626688386669.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-beef-steak-with-seasoning-on-chopping-board-on-dark-background-with-rosemary--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 177115,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6R2X45T"
+        },
+        {
+            "filename": "raw-fresh-cross-cut-veal-shank-and-seasonings-for-making-osso-buco-on-wooden-cutting-board-e1626688402854.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-fresh-cross-cut-veal-shank-and-seasonings-for-making-osso-buco-on-wooden-cutting-board-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 238766,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TSPBJ33"
+        },
+        {
+            "filename": "raw-turkey-meat-fresh-turkey-meat-steakes-sliced-e1626688424877.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-turkey-meat-fresh-turkey-meat-steakes-sliced-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 207935,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMKF8A5"
+        },
+        {
+            "filename": "raw-meat-osso-buco-and-butchers-axe-e1626688440134.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-osso-buco-and-butchers-axe-800x1043.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214333,
+            "dimensions": [
+                900,
+                1173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HLM6PAU"
+        },
+        {
+            "filename": "raw-meat-beef-and-pork-steaks-with-spices-on-the-cutting-board--e1626688451539.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-beef-and-pork-steaks-with-spices-on-the-cutting-board--800x1004.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 254299,
+            "dimensions": [
+                900,
+                1129
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPKB4BH"
+        },
+        {
+            "filename": "asset8-7DSHZFM-e1626688480929.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/asset8-7DSHZFM-800x705.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 191538,
+            "dimensions": [
+                1000,
+                881
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7DSHZFM"
+        },
+        {
+            "filename": "proud-housewife-2021-04-05-23-19-22-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/proud-housewife-2021-04-05-23-19-22-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 166557,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XG7LDXQ"
+        },
+        {
+            "filename": "male-chef-2021-04-02-20-38-15-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/male-chef-2021-04-02-20-38-15-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 73199,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ4FTHY"
+        },
+        {
+            "filename": "joyous-attractive-housewife-standing-in-the-kitche-RTW8VNR.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/joyous-attractive-housewife-standing-in-the-kitche-RTW8VNR-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 118210,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RTW8VNR"
+        },
+        {
+            "filename": "cheerful-chef-on-the-kitchen-78S2ZBN.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/cheerful-chef-on-the-kitchen-78S2ZBN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 73896,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78S2ZBN"
+        },
+        {
+            "filename": "raw-fresh-meat-steak-e1626688588160.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-fresh-meat-steak-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 290344,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMYS727"
+        },
+        {
+            "filename": "raw-fresh-meat-ribeye-steak-entrecote-and-seasonings-on-cutting-board-over-dark-wooden-background--e1626688599271.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-fresh-meat-ribeye-steak-entrecote-and-seasonings-on-cutting-board-over-dark-wooden-background--800x1139.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187621,
+            "dimensions": [
+                1000,
+                1423
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8V573L"
+        },
+        {
+            "filename": "raw-meat-pork-with-spices.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-pork-with-spices.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 293206,
+            "dimensions": [
+                800,
+                810
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RUSZSEN"
+        },
+        {
+            "filename": "farmer-e1626688629417.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/farmer-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 161474,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFRUJTA"
+        },
+        {
+            "filename": "raw-meat-1-e1626688665849.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-1-800x537.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 228646,
+            "dimensions": [
+                1240,
+                833
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSPF77W"
+        },
+        {
+            "filename": "grilled-beef-steaks-with-spices-on-black-pan-XL45MWJ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/grilled-beef-steaks-with-spices-on-black-pan-XL45MWJ-800x648.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 289713,
+            "dimensions": [
+                850,
+                688
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XL45MWJ"
+        },
+        {
+            "filename": "wine-meat-appetizer-set-prosciutto-serrano-and-cured-lamb-meat-e1626688684614.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/wine-meat-appetizer-set-prosciutto-serrano-and-cured-lamb-meat-800x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 298216,
+            "dimensions": [
+                1440,
+                1084
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMRU9DK"
+        },
+        {
+            "filename": "butcher-posing-standing-between-rows-of-pork-carca-6L9X8FZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/butcher-posing-standing-between-rows-of-pork-carca-6L9X8FZ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 186222,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6L9X8FZ"
+        },
+        {
+            "filename": "the-butcher-in-a-meat-factory-CQFKBGZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/the-butcher-in-a-meat-factory-CQFKBGZ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 226923,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CQFKBGZ"
+        },
+        {
+            "filename": "raw-beef-meat-fresh-cut-of-beef-meat-on-board-with-spices-e1626688743566.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-beef-meat-fresh-cut-of-beef-meat-on-board-with-spices-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 285737,
+            "dimensions": [
+                1240,
+                827
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-S72YZ56"
+        },
+        {
+            "filename": "raw-meat-and-sausages-e1626688770481.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-and-sausages-e1626427005303-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 279961,
+            "dimensions": [
+                1820,
+                1213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PY3S3SU"
+        },
+        {
+            "filename": "Logo-9UED94-e1626688056423.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/Logo-9UED94-800x833.png",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 113769,
+            "dimensions": [
+                1000,
+                1041
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FJ8Z96"
+        },
+        {
+            "filename": "raw-meat-different-kinds-of-pork-and-beef-meat-1-2-e1626688792490.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-different-kinds-of-pork-and-beef-meat-1-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 284882,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-483XLF2"
+        },
+        {
+            "filename": "raw-chopped-meat-with-spices-on-rusty-background-e1626688804121.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-chopped-meat-with-spices-on-rusty-background-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/package.json",
+                    "name": "Package"
+                }
+            ],
+            "filesize": 252216,
+            "dimensions": [
+                1000,
+                1249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VQ9L4E7"
+        },
+        {
+            "filename": "butcher-cutting-pork-meat-on-kitchen-e1626688815976.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/butcher-cutting-pork-meat-on-kitchen-e1626663345245-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 309778,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PREDNGJ"
+        },
+        {
+            "filename": "butcher-at-work-H7RJS6P.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/butcher-at-work-H7RJS6P-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 247220,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H7RJS6P"
+        },
+        {
+            "filename": "bearded-butcher-cut-fresh-meat-JHU26GS.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/bearded-butcher-cut-fresh-meat-JHU26GS-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 258073,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JHU26GS"
+        },
+        {
+            "filename": "young-man-wearing-apron-standing-outdoors-holding-M8AVUH4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/young-man-wearing-apron-standing-outdoors-holding-M8AVUH4-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 295612,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M8AVUH4"
+        },
+        {
+            "filename": "man-with-brown-curly-hair-wearing-apron-standing-DYFVGCW.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/man-with-brown-curly-hair-wearing-apron-standing-DYFVGCW-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 257055,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DYFVGCW"
+        },
+        {
+            "filename": "raw-minced-beef-meat-and-ingredients-for-burgers-e1626688837398.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-minced-beef-meat-and-ingredients-for-burgers-e1626663758816-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 252174,
+            "dimensions": [
+                1720,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XE4BYNV"
+        },
+        {
+            "filename": "fresh-pork-meat-raw-sliced-pork-meat-pork-neck-e1626688904242.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/fresh-pork-meat-raw-sliced-pork-meat-pork-neck-e1626667033831-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 246551,
+            "dimensions": [
+                1340,
+                893
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZMKAE5"
+        },
+        {
+            "filename": "close-up-of-man-wearing-apron-standing-at-a-wooden-butcher-s-block-butchering-piece-of-pork-loin-e1626688915326.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/close-up-of-man-wearing-apron-standing-at-a-wooden-butcher-s-block-butchering-piece-of-pork-loin-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 206708,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB3NVY4"
+        },
+        {
+            "filename": "raw-meat-and-sausages-1-e1626689009120.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-and-sausages-1-e1626669145479-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 312726,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9JUFME"
+        },
+        {
+            "filename": "raw-meat-2-e1626689029951.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-2-800x541.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 189508,
+            "dimensions": [
+                1000,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NJF3CBD"
+        },
+        {
+            "filename": "assorted-meat-cuts-e1626688859615.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/assorted-meat-cuts-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 309002,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RC6S2A5"
+        },
+        {
+            "filename": "raw-meat-beef-steak-on-a-stone-cutting-board-with-rosemary-spices-salt-oil-cherry-tomatoes-hot-e1626688873148.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-meat-beef-steak-on-a-stone-cutting-board-with-rosemary-spices-salt-oil-cherry-tomatoes-hot-e1626666568597-800x1032.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 292138,
+            "dimensions": [
+                1000,
+                1290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-F8GSFPN"
+        },
+        {
+            "filename": "asset9-7DSHZFM-e1626688569512.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/asset9-7DSHZFM-800x988.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 305658,
+            "dimensions": [
+                1000,
+                1235
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7DSHZFM"
+        },
+        {
+            "filename": "raw-fresh-meat-veal-ribs-and-vintage-kitchen-utensils-on-dark-background-e1626688848786.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/meatezy\/wp-content\/uploads\/sites\/123\/2021\/07\/raw-fresh-meat-veal-ribs-and-vintage-kitchen-utensils-on-dark-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 315281,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5FFMKAC"
+        }
+    ]
+}
